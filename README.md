@@ -21,4 +21,4 @@ ___Please fill in the fields below otherwise your submission won't be considered
 * For question 2, submit a pdf file named ```Q2.pdf```.
 * There is a folder dedicated for each question. Put all the files related to a question in its folder. There is a ```README.md``` in each of the folders. Put any comments (about the question) or assumptions that you have made in the corresponding ```README.md``` (It is not necessary to mention anything there - you can leave it blank).
 * The deadline for submission is $26^{th}$ February 2023, 11:59 PM. (Don't worry, we will extend the deadline for non-freshies owing to midsems in this time period).
-If you have any comments/clarifications/doubts regarding the questions, contact us on our WhatsApp group. Link to Whatsapp group: https://chat.whatsapp.com/IKuOtXWIRgvKoe1H9QDm32
+* If you have any comments/clarifications/doubts regarding the questions, contact us on our WhatsApp group. Link to Whatsapp group: https://chat.whatsapp.com/IKuOtXWIRgvKoe1H9QDm32
