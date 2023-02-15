@@ -1,6 +1,7 @@
 # Team ANYmation Recruitments 2023
 
-**In case you are not familiar with Git, here is a simple tutorial : [link](https://www.youtube.com/watch?v=xmK1Q5uzH4w)**
+**In case you are not familiar with Git, here is a simple tutorial : [link](https://www.youtube.com/watch?v=xmK1Q5uzH4w)** <br>
+All the blue colored text in the problem statement ```AstrophysicsRecruitment.pdf``` has links. You won't be able to click on the links while viewing on GitHub. So download the problem statement.
 
 ## Information
 
