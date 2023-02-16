@@ -13,7 +13,7 @@ ___Please fill in the fields below otherwise your submission won't be considered
 
 ## Instructions
 
-* This assignment ```AstrophysicsRecruitments.pdf``` has 5 questions. The points corresponding to each question/sub-part are given in the right side margin of the problem statement. The assignment is for a maximum of **300 p**.
+* The [problem statement] ```AstrophysicsRecruitments.pdf``` has 5 questions. The points corresponding to each question/sub-part are given in the right side margin of the problem statement. The assignment is for a maximum of **300 p**.
 * You are free to use the internet (obviously) and any other resources.
 * The questions are based on some interesting phenomemon in astronomy. **There is no need for any prerequisites for this assignment**. But there is a lot of astronomy jargon floating around. You are expected to browse for those terms over the internet.
 * Questions 1, 3, 4 and 5 have coding component, so, any coding knowledge would be helpful. Coding must be done in ```python```. You will mainly be needing ```Numpy``` and ```Matplotlib``` libraries, but you are free to use any other python library. For those who are not familiar with python, here are some [tutorials](https://github.com/krittikaiitb/tutorials/) (click).
