@@ -20,5 +20,5 @@ ___Please fill in the fields below otherwise your submission won't be considered
 * Please use [jupyter](https://jupyter.org/install) notebooks or Google [colab](https://colab.research.google.com/) (```.ipynb``` extension) for questions 1, 3, 4 and 5. **Please explain the steps and the chosen variable names clearly**. For question 5, write the answers in the colab/jupyter notebook itself. Name the files ```Q<question number>.ipynb```.
 * For question 2, submit a pdf file named ```Q2.pdf```.
 * There is a folder dedicated for each question. Put all the files related to a question in its folder. There is a ```README.md``` in each of the folders. Put any comments (about the question) or assumptions that you have made in the corresponding ```README.md``` (It is not necessary to mention anything there - you can leave it blank).
-* The deadline for submission is $26^{th}$ February 2023, 11:59 PM. (Don't worry, we will extend the deadline for non-freshies owing to midsems in this time period).
+* The deadline for submission is $2^{nd}$ March 2023, 11:59 PM. (Don't worry, we will extend the deadline for non-freshies owing to midsems in this time period).
 * If you have any comments/clarifications/doubts regarding the questions, contact us on our WhatsApp group. Link to Whatsapp group: https://chat.whatsapp.com/IKuOtXWIRgvKoe1H9QDm32
